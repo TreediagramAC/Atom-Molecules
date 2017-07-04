@@ -1,5 +1,5 @@
 # Atom-Molecules
-CSE232 C++ intro project6 &lt;Build files to deal with atom and molecules reaction>
+CSE232 project6
 
 Here is the project's description.
 
